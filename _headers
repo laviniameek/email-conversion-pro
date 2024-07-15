@@ -1,0 +1,2 @@
+/* 
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; frame-src 'self' https://laviniameek.github.io; img-src 'self' data:;
